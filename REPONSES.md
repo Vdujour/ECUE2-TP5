@@ -19,9 +19,9 @@ Nom / Prénom : Dujour Valentin
 
 ## Partie 2
 
-**2.1** :
+**2.1** : Non pas de setter, car dans la règle métier il est dit que les valeurs ne peuvent pas changer.
 
-**2.2** :
+**2.2** : Pour être sur que la personne qui exécute respecte les règles, n'importe qui pourrait supprimer la règle au moment de la création de l'objet. Alors que là, on est obligé de respecter les règles.
 
 ## Partie 3
 
